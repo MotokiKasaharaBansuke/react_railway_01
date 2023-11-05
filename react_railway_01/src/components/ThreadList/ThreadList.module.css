@@ -1,0 +1,28 @@
+.list {
+    list-style: none;
+    width: 400px;
+    margin:0;
+    padding:0;
+}
+
+.item {
+    font-size: 30px;
+    border: 1px solid #565656;
+    padding: 16px;
+    margin-bottom: -1px;
+    background-color: white;
+}
+
+.button {
+    margin-top: 32px;
+    background-color: #66D48B;
+    font-size: 32px;
+    padding: 8px 64px 8px 64px;
+    color: white;
+    border: none;
+}
+
+.link {
+    color: #565656;
+    text-decoration: none;
+}
